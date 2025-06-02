@@ -1,0 +1,3926 @@
+{
+  "table1": [
+  {
+    "anzscoCode": "133111",
+    "description": {
+      "text": "Construction Project Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133112",
+    "description": {
+      "text": "Project Builder",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133211",
+    "description": {
+      "text": "Engineering Manager",
+      "url": "#"
+    },
+    "authority": "EA/AIM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134111",
+    "description": {
+      "text": "Child Care Centre Manager",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134211",
+    "description": {
+      "text": "Medical Administrator",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134212",
+    "description": {
+      "text": "Nursing Clinical Director",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134213",
+    "description": {
+      "text": "Primary Health Organisation Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134214",
+    "description": {
+      "text": "Welfare Centre Manager",
+      "url": "#"
+    },
+    "authority": "ACWA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221111",
+    "description": {
+      "text": "Accountant (General)",
+      "url": "#"
+    },
+    "authority": "CPAA/CA/IPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221112",
+    "description": {
+      "text": "Management Accountant",
+      "url": "#"
+    },
+    "authority": "CPAA/CA/IPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221113",
+    "description": {
+      "text": "Taxation Accountant",
+      "url": "#"
+    },
+    "authority": "CPAA/CA/IPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221213",
+    "description": {
+      "text": "External Auditor",
+      "url": "#"
+    },
+    "authority": "CPAA/CA/IPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221214",
+    "description": {
+      "text": "Internal Auditor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224111",
+    "description": {
+      "text": "Actuary",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224511",
+    "description": {
+      "text": "Land Economist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224512",
+    "description": {
+      "text": "Valuer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232111",
+    "description": {
+      "text": "Architect",
+      "url": "#"
+    },
+    "authority": "AACA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232112",
+    "description": {
+      "text": "Landscape Architect",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232212",
+    "description": {
+      "text": "Surveyor",
+      "url": "#"
+    },
+    "authority": "SSSI",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232213",
+    "description": {
+      "text": "Cartographer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232214",
+    "description": {
+      "text": "Other Spatial Scientist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233111",
+    "description": {
+      "text": "Chemical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233112",
+    "description": {
+      "text": "Materials Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233211",
+    "description": {
+      "text": "Civil Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233212",
+    "description": {
+      "text": "Geotechnical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233213",
+    "description": {
+      "text": "Quantity Surveyor",
+      "url": "#"
+    },
+    "authority": "AIQS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233214",
+    "description": {
+      "text": "Structural Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233215",
+    "description": {
+      "text": "Transport Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233311",
+    "description": {
+      "text": "Electrical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233411",
+    "description": {
+      "text": "Electronics Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233511",
+    "description": {
+      "text": "Industrial Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233512",
+    "description": {
+      "text": "Mechanical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233513",
+    "description": {
+      "text": "Production or Plant Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233911",
+    "description": {
+      "text": "Aeronautical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233912",
+    "description": {
+      "text": "Agricultural Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233913",
+    "description": {
+      "text": "Biomedical Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233914",
+    "description": {
+      "text": "Engineering Technologist",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233915",
+    "description": {
+      "text": "Environmental Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "233916",
+    "description": {
+      "text": "Naval Architect",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234111",
+    "description": {
+      "text": "Agricultural Consultant",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234112",
+    "description": {
+      "text": "Agricultural Scientist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234113",
+    "description": {
+      "text": "Forester",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234611",
+    "description": {
+      "text": "Medical Laboratory Scientist",
+      "url": "#"
+    },
+    "authority": "AIMS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234711",
+    "description": {
+      "text": "Veterinarian",
+      "url": "#"
+    },
+    "authority": "AVBC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234914",
+    "description": {
+      "text": "Physicist",
+      "url": "#"
+    },
+    "authority": "ACPSEM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241111",
+    "description": {
+      "text": "Early Childhood (Pre-primary School) Teacher",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241411",
+    "description": {
+      "text": "Secondary School Teacher",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241511",
+    "description": {
+      "text": "Special Needs Teacher",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241512",
+    "description": {
+      "text": "Teacher of the Hearing Impaired",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241513",
+    "description": {
+      "text": "Teacher of the Sight Impaired",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241599",
+    "description": {
+      "text": "Special Education Teachers nec",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251211",
+    "description": {
+      "text": "Medical Diagnostic Radiographer",
+      "url": "#"
+    },
+    "authority": "ASMIRT",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251212",
+    "description": {
+      "text": "Medical Radiation Therapist",
+      "url": "#"
+    },
+    "authority": "ASMIRT",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251213",
+    "description": {
+      "text": "Nuclear Medicine Technologist",
+      "url": "#"
+    },
+    "authority": "ANZSNM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251214",
+    "description": {
+      "text": "Sonographer",
+      "url": "#"
+    },
+    "authority": "ASMIRT",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251411",
+    "description": {
+      "text": "Optometrist",
+      "url": "#"
+    },
+    "authority": "OCANZ",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251912",
+    "description": {
+      "text": "Orthotist or Prosthetist",
+      "url": "#"
+    },
+    "authority": "AOPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252111",
+    "description": {
+      "text": "Chiropractor",
+      "url": "#"
+    },
+    "authority": "CCEA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252112",
+    "description": {
+      "text": "Osteopath",
+      "url": "#"
+    },
+    "authority": "AOAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252411",
+    "description": {
+      "text": "Occupational Therapist",
+      "url": "#"
+    },
+    "authority": "OTC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252511",
+    "description": {
+      "text": "Physiotherapist",
+      "url": "#"
+    },
+    "authority": "APC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252611",
+    "description": {
+      "text": "Podiatrist",
+      "url": "#"
+    },
+    "authority": "ANZPAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252711",
+    "description": {
+      "text": "Audiologist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252712",
+    "description": {
+      "text": "Speech Pathologist",
+      "url": "#"
+    },
+    "authority": "SPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253111",
+    "description": {
+      "text": "General Practitioner",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253311",
+    "description": {
+      "text": "Specialist Physician (General Medicine)",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253312",
+    "description": {
+      "text": "Cardiologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253313",
+    "description": {
+      "text": "Clinical Haematologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253314",
+    "description": {
+      "text": "Medical Oncologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253315",
+    "description": {
+      "text": "Endocrinologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253316",
+    "description": {
+      "text": "Gastroenterologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253317",
+    "description": {
+      "text": "Intensive Care Specialist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253318",
+    "description": {
+      "text": "Neurologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253321",
+    "description": {
+      "text": "Paediatrician",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253322",
+    "description": {
+      "text": "Renal Medicine Specialist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253323",
+    "description": {
+      "text": "Rheumatologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253324",
+    "description": {
+      "text": "Thoracic Medicine Specialist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253399",
+    "description": {
+      "text": "Specialist Physicians nec",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253411",
+    "description": {
+      "text": "Psychiatrist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253511",
+    "description": {
+      "text": "Surgeon (General)",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253512",
+    "description": {
+      "text": "Cardiothoracic Surgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253513",
+    "description": {
+      "text": "Neurosurgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253514",
+    "description": {
+      "text": "Orthopaedic Surgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253515",
+    "description": {
+      "text": "Otorhinolaryngologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253516",
+    "description": {
+      "text": "Paediatric Surgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253517",
+    "description": {
+      "text": "Plastic and Reconstructive Surgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253518",
+    "description": {
+      "text": "Urologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253521",
+    "description": {
+      "text": "Vascular Surgeon",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253911",
+    "description": {
+      "text": "Dermatologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253912",
+    "description": {
+      "text": "Emergency Medicine Specialist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253913",
+    "description": {
+      "text": "Obstetrician and Gynaecologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253914",
+    "description": {
+      "text": "Ophthalmologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253915",
+    "description": {
+      "text": "Pathologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253917",
+    "description": {
+      "text": "Diagnostic and Interventional Radiologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253918",
+    "description": {
+      "text": "Radiation Oncologist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253999",
+    "description": {
+      "text": "Medical Practitioners nec",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254111",
+    "description": {
+      "text": "Midwife",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254411",
+    "description": {
+      "text": "Nurse Practitioner",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254412",
+    "description": {
+      "text": "Registered Nurse (Aged Care)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254413",
+    "description": {
+      "text": "Registered Nurse (Child and Family Health)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254414",
+    "description": {
+      "text": "Registered Nurse (Community Health)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254415",
+    "description": {
+      "text": "Registered Nurse (Critical Care and Emergency)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254416",
+    "description": {
+      "text": "Registered Nurse (Developmental Disability)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254417",
+    "description": {
+      "text": "Registered Nurse (Disability and Rehabilitation)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254418",
+    "description": {
+      "text": "Registered Nurse (Medical)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254421",
+    "description": {
+      "text": "Registered Nurse (Medical Practice)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254422",
+    "description": {
+      "text": "Registered Nurse (Mental Health)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254423",
+    "description": {
+      "text": "Registered Nurse (Perioperative)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254424",
+    "description": {
+      "text": "Registered Nurse (Surgical)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254425",
+    "description": {
+      "text": "Registered Nurse (Paediatrics)",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254499",
+    "description": {
+      "text": "Registered Nurses nec",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261111",
+    "description": {
+      "text": "ICT Business Analyst",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261112",
+    "description": {
+      "text": "Systems Analyst",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261311",
+    "description": {
+      "text": "Analyst Programmer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261312",
+    "description": {
+      "text": "Developer Programmer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261313",
+    "description": {
+      "text": "Software Engineer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261312",
+    "description": {
+      "text": "ICT Security Specialist",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263111",
+    "description": {
+      "text": "Computer Network and Systems Engineer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263311",
+    "description": {
+      "text": "Telecommunications Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263312",
+    "description": {
+      "text": "Telecommunications Network Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "271111",
+    "description": {
+      "text": "Barrister",
+      "url": "#"
+    },
+    "authority": "SLAA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "271311",
+    "description": {
+      "text": "Solicitor",
+      "url": "#"
+    },
+    "authority": "SLAA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272311",
+    "description": {
+      "text": "Clinical Psychologist",
+      "url": "#"
+    },
+    "authority": "APS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272312",
+    "description": {
+      "text": "Educational Psychologist",
+      "url": "#"
+    },
+    "authority": "APS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272313",
+    "description": {
+      "text": "Organisational Psychologist",
+      "url": "#"
+    },
+    "authority": "APS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272399",
+    "description": {
+      "text": "Psychologists nec",
+      "url": "#"
+    },
+    "authority": "APS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272511",
+    "description": {
+      "text": "Social Worker",
+      "url": "#"
+    },
+    "authority": "AASW",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312211",
+    "description": {
+      "text": "Civil Engineering Draftsperson",
+      "url": "#"
+    },
+    "authority": "EA/VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312212",
+    "description": {
+      "text": "Civil Engineering Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312311",
+    "description": {
+      "text": "Electrical Engineering Draftsperson",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312312",
+    "description": {
+      "text": "Electrical Engineering Technician",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312311",
+    "description": {
+      "text": "Radiocommunications Technician",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312312",
+    "description": {
+      "text": "Telecommunications Field Engineer",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313213",
+    "description": {
+      "text": "Telecommunications Network Planner",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313214",
+    "description": {
+      "text": "Telecommunications Technical Officer or Technologist",
+      "url": "#"
+    },
+    "authority": "EA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "321111",
+    "description": {
+      "text": "Automotive Electrician",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "321211",
+    "description": {
+      "text": "Motor Mechanic (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "321212",
+    "description": {
+      "text": "Diesel Motor Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "321213",
+    "description": {
+      "text": "Motorcycle Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "321214",
+    "description": {
+      "text": "Small Engine Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "322211",
+    "description": {
+      "text": "Sheetmetal Trades Worker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "322311",
+    "description": {
+      "text": "Metal Fabricator",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "322312",
+    "description": {
+      "text": "Pressure Welder",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "322313",
+    "description": {
+      "text": "Welder (First Class)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323211",
+    "description": {
+      "text": "Fitter (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323212",
+    "description": {
+      "text": "Fitter and Turner",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323213",
+    "description": {
+      "text": "Fitter-Welder",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323214",
+    "description": {
+      "text": "Metal Machinist (First Class)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323313",
+    "description": {
+      "text": "Locksmith",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "324111",
+    "description": {
+      "text": "Panelbeater",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "331111",
+    "description": {
+      "text": "Bricklayer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "331112",
+    "description": {
+      "text": "Stonemason",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "331211",
+    "description": {
+      "text": "Carpenter and Joiner",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "331212",
+    "description": {
+      "text": "Carpenter",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "331213",
+    "description": {
+      "text": "Joiner",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "332211",
+    "description": {
+      "text": "Painting Trades Worker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "333111",
+    "description": {
+      "text": "Glazier",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "333211",
+    "description": {
+      "text": "Fibrous Plasterer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "333212",
+    "description": {
+      "text": "Solid Plasterer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "333411",
+    "description": {
+      "text": "Wall and Floor Tiler",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "334111",
+    "description": {
+      "text": "Plumber (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "334112",
+    "description": {
+      "text": "Airconditioning and Mechanical Services Plumber",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "334113",
+    "description": {
+      "text": "Drainer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "334114",
+    "description": {
+      "text": "Gasfitter",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "334115",
+    "description": {
+      "text": "Roof Plumber",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "341111",
+    "description": {
+      "text": "Electrician (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "341112",
+    "description": {
+      "text": "Electrician (Special Class)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "341113",
+    "description": {
+      "text": "Lift Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342111",
+    "description": {
+      "text": "Airconditioning and Refrigeration Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342211",
+    "description": {
+      "text": "Electrical Linesworker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342212",
+    "description": {
+      "text": "Technical Cable Jointer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342313",
+    "description": {
+      "text": "Electronic Equipment Trades Worker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342314",
+    "description": {
+      "text": "Electronic Instrument Trades Worker (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342315",
+    "description": {
+      "text": "Electronic Instrument Trades Worker (Special Class)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "351311",
+    "description": {
+      "text": "Chef",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "394111",
+    "description": {
+      "text": "Cabinetmaker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "399111",
+    "description": {
+      "text": "Boat Builder and Repairer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "399112",
+    "description": {
+      "text": "Shipwright",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "423111",
+    "description": {
+      "text": "Aged or Disabled Carer",
+      "url": "#"
+    },
+    "authority": "N/A",
+    "skillLevel": "4",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "423312",
+    "description": {
+      "text": "Nursing Support Worker",
+      "url": "#"
+    },
+    "authority": "N/A",
+    "skillLevel": "4",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "423313",
+    "description": {
+      "text": "Personal Care Assistant",
+      "url": "#"
+    },
+    "authority": "N/A",
+    "skillLevel": "4",
+    "course": "#"
+  }
+],
+"table2":[
+  {
+    "anzscoCode": "121111",
+    "description": {
+      "text": "Aquaculture Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121211",
+    "description": {
+      "text": "Cotton Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121212",
+    "description": {
+      "text": "Flower Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121213",
+    "description": {
+      "text": "Fruit or Nut Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121214",
+    "description": {
+      "text": "Grain, Oilseed or Pasture Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121215",
+    "description": {
+      "text": "Grape Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121216",
+    "description": {
+      "text": "Mixed Crop Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121217",
+    "description": {
+      "text": "Sugar Cane Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121221",
+    "description": {
+      "text": "Vegetable Grower",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121299",
+    "description": {
+      "text": "Crop Farmers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121311",
+    "description": {
+      "text": "Apiarist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121312",
+    "description": {
+      "text": "Beef Cattle Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121313",
+    "description": {
+      "text": "Dairy Cattle Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121316",
+    "description": {
+      "text": "Horse Breeder",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121317",
+    "description": {
+      "text": "Mixed Livestock Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121318",
+    "description": {
+      "text": "Pig Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121321",
+    "description": {
+      "text": "Poultry Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121322",
+    "description": {
+      "text": "Sheep Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121399",
+    "description": {
+      "text": "Livestock Farmers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "121411",
+    "description": {
+      "text": "Mixed Crop and Livestock Farmer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "131112",
+    "description": {
+      "text": "Sales and Marketing Manager",
+      "url": "#"
+    },
+    "authority": "AIM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "131113",
+    "description": {
+      "text": "Advertising Manager",
+      "url": "#"
+    },
+    "authority": "AIM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "132111",
+    "description": {
+      "text": "Corporate Services Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "132211",
+    "description": {
+      "text": "Finance Manager",
+      "url": "#"
+    },
+    "authority": "CPAA/CA/IPA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "132311",
+    "description": {
+      "text": "Human Resource Manager",
+      "url": "#"
+    },
+    "authority": "AIM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "132511",
+    "description": {
+      "text": "Research and Development Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "132411",
+    "description": {
+      "text": "Manufacturer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133511",
+    "description": {
+      "text": "Production Manager (Forestry)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133512",
+    "description": {
+      "text": "Production Manager (Manufacturing)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133513",
+    "description": {
+      "text": "Production Manager (Mining)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "133611",
+    "description": {
+      "text": "Supply and Distribution Manager",
+      "url": "#"
+    },
+    "authority": "AIM",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134299",
+    "description": {
+      "text": "Health and Welfare Services Managers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134311",
+    "description": {
+      "text": "School Principal",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "134499",
+    "description": {
+      "text": "Education Managers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "135112",
+    "description": {
+      "text": "ICT Project Manager",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "135199",
+    "description": {
+      "text": "ICT Managers nec",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "139911",
+    "description": {
+      "text": "Arts Administrator or Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "139913",
+    "description": {
+      "text": "Laboratory Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "139914",
+    "description": {
+      "text": "Quality Assurance Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "139999",
+    "description": {
+      "text": "Specialist Managers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "141111",
+    "description": {
+      "text": "Cafe or Restaurant Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "141311",
+    "description": {
+      "text": "Hotel or Motel Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "141999",
+    "description": {
+      "text": "Accommodation and Hospitality Managers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "142114",
+    "description": {
+      "text": "Hair or Beauty Salon Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "142115",
+    "description": {
+      "text": "Post Office Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149112",
+    "description": {
+      "text": "Fitness Centre Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149113",
+    "description": {
+      "text": "Sports Centre Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149212",
+    "description": {
+      "text": "Customer Service Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149311",
+    "description": {
+      "text": "Conference and Event Organiser",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149413",
+    "description": {
+      "text": "Transport Company Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "149913",
+    "description": {
+      "text": "Facilities Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "211112",
+    "description": {
+      "text": "Dancer or Choreographer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "211212",
+    "description": {
+      "text": "Music Director",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "211299",
+    "description": {
+      "text": "Music Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "211311",
+    "description": {
+      "text": "Photographer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "211499",
+    "description": {
+      "text": "Visual Arts and Crafts Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212111",
+    "description": {
+      "text": "Artistic Director",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212212",
+    "description": {
+      "text": "Book or Script Editor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212312",
+    "description": {
+      "text": "Director (Film, Television, Radio or Stage)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212314",
+    "description": {
+      "text": "Film and Video Editor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212315",
+    "description": {
+      "text": "Program Director (Television or Radio)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212316",
+    "description": {
+      "text": "Stage Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212317",
+    "description": {
+      "text": "Technical Director",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212318",
+    "description": {
+      "text": "Video Producer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212411",
+    "description": {
+      "text": "Copywriter",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212412",
+    "description": {
+      "text": "Newspaper or Periodical Editor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212413",
+    "description": {
+      "text": "Print Journalist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212415",
+    "description": {
+      "text": "Technical Writer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212416",
+    "description": {
+      "text": "Television Journalist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "212499",
+    "description": {
+      "text": "Journalists and Other Writers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221211",
+    "description": {
+      "text": "Company Secretary",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "221212",
+    "description": {
+      "text": "Corporate Treasurer",
+      "url": "#"
+    },
+    "authority": "N/A",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222111",
+    "description": {
+      "text": "Commodities Trader",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222112",
+    "description": {
+      "text": "Finance Broker",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222113",
+    "description": {
+      "text": "Insurance Broker",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222199",
+    "description": {
+      "text": "Financial Brokers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222211",
+    "description": {
+      "text": "Financial Market Dealer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222213",
+    "description": {
+      "text": "Stockbroking Dealer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222299",
+    "description": {
+      "text": "Financial Dealers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222311",
+    "description": {
+      "text": "Financial Investment Adviser",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "222312",
+    "description": {
+      "text": "Financial Investment Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "223112",
+    "description": {
+      "text": "Recruitment Consultant",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "223211",
+    "description": {
+      "text": "ICT Trainer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224112",
+    "description": {
+      "text": "Mathematician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224212",
+    "description": {
+      "text": "Gallery or Museum Curator",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224213",
+    "description": {
+      "text": "Health Information Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224214",
+    "description": {
+      "text": "Records Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224611",
+    "description": {
+      "text": "Librarian",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224711",
+    "description": {
+      "text": "Management Consultant",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224712",
+    "description": {
+      "text": "Organisation and Methods Analyst",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224914",
+    "description": {
+      "text": "Patents Examiner",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "224999",
+    "description": {
+      "text": "Information and Organisation Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225111",
+    "description": {
+      "text": "Advertising Specialist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225113",
+    "description": {
+      "text": "Marketing Specialist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225211",
+    "description": {
+      "text": "ICT Account Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225212",
+    "description": {
+      "text": "ICT Business Development Manager",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225213",
+    "description": {
+      "text": "ICT Sales Representative",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225311",
+    "description": {
+      "text": "Public Relations Professional",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "225499",
+    "description": {
+      "text": "Technical Sales Representatives nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "231111",
+    "description": {
+      "text": "Aeroplane Pilot",
+      "url": "#"
+    },
+    "authority": "CASA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "231113",
+    "description": {
+      "text": "Flying Instructor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "231114",
+    "description": {
+      "text": "Helicopter Pilot",
+      "url": "#"
+    },
+    "authority": "CASA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232311",
+    "description": {
+      "text": "Fashion Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232312",
+    "description": {
+      "text": "Industrial Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232313",
+    "description": {
+      "text": "Jewellery Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232411",
+    "description": {
+      "text": "Graphic Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232412",
+    "description": {
+      "text": "Illustrator",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232414",
+    "description": {
+      "text": "Web Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232511",
+    "description": {
+      "text": "Interior Designer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "232611",
+    "description": {
+      "text": "Urban and Regional Planner",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234213",
+    "description": {
+      "text": "Wine Maker",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "234411",
+    "description": {
+      "text": "Geologist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241213",
+    "description": {
+      "text": "Primary School Teacher",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "241311",
+    "description": {
+      "text": "Middle School Teacher",
+      "url": "#"
+    },
+    "authority": "AITSL",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249111",
+    "description": {
+      "text": "Education Adviser",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249211",
+    "description": {
+      "text": "Art Teacher (Private Tuition)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249212",
+    "description": {
+      "text": "Dance Teacher (Private Tuition)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249214",
+    "description": {
+      "text": "Music Teacher (Private Tuition)",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249299",
+    "description": {
+      "text": "Private Tutors and Teachers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "249311",
+    "description": {
+      "text": "Teacher of English to Speakers of Other Languages",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251111",
+    "description": {
+      "text": "Dietitian",
+      "url": "#"
+    },
+    "authority": "DAA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251112",
+    "description": {
+      "text": "Nutritionist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251312",
+    "description": {
+      "text": "Occupational Health and Safety Adviser",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251412",
+    "description": {
+      "text": "Orthoptist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251511",
+    "description": {
+      "text": "Hospital Pharmacist",
+      "url": "#"
+    },
+    "authority": "APharmC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251512",
+    "description": {
+      "text": "Industrial Pharmacist",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251513",
+    "description": {
+      "text": "Retail Pharmacist",
+      "url": "#"
+    },
+    "authority": "APharmC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251911",
+    "description": {
+      "text": "Health Promotion Officer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "251999",
+    "description": {
+      "text": "Health Diagnostic and Promotion Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252211",
+    "description": {
+      "text": "Acupuncturist",
+      "url": "#"
+    },
+    "authority": "CMBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252213",
+    "description": {
+      "text": "Naturopath",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252214",
+    "description": {
+      "text": "Traditional Chinese Medicine Practitioner",
+      "url": "#"
+    },
+    "authority": "CMBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252299",
+    "description": {
+      "text": "Complementary Health Therapists nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252311",
+    "description": {
+      "text": "Dental Specialist",
+      "url": "#"
+    },
+    "authority": "ADC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "252312",
+    "description": {
+      "text": "Dentist",
+      "url": "#"
+    },
+    "authority": "ADC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253112",
+    "description": {
+      "text": "Resident Medical Officer",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "253211",
+    "description": {
+      "text": "Anaesthetist",
+      "url": "#"
+    },
+    "authority": "MBA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254211",
+    "description": {
+      "text": "Nurse Educator",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254212",
+    "description": {
+      "text": "Nurse Researcher",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "254311",
+    "description": {
+      "text": "Nurse Manager",
+      "url": "#"
+    },
+    "authority": "ANMAC",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261212",
+    "description": {
+      "text": "Web Developer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "261314",
+    "description": {
+      "text": "Software Tester",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "262111",
+    "description": {
+      "text": "Database Administrator",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "262113",
+    "description": {
+      "text": "Systems Administrator",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263112",
+    "description": {
+      "text": "Network Administrator",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263113",
+    "description": {
+      "text": "Network Analyst",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263211",
+    "description": {
+      "text": "ICT Quality Assurance Engineer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263212",
+    "description": {
+      "text": "ICT Support Engineer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263213",
+    "description": {
+      "text": "ICT Systems Test Engineer",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "263299",
+    "description": {
+      "text": "ICT Support and Test Engineers nec",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272199",
+    "description": {
+      "text": "Judicial and Other Legal Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272111",
+    "description": {
+      "text": "Careers Counsellor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1 (Closed)",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272112",
+    "description": {
+      "text": "Drug and Alcohol Counsellor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272113",
+    "description": {
+      "text": "Family and Marriage Counsellor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272114",
+    "description": {
+      "text": "Rehabilitation Counsellor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272115",
+    "description": {
+      "text": "Student Counsellor",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272199",
+    "description": {
+      "text": "Counsellors nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272412",
+    "description": {
+      "text": "Interpreter",
+      "url": "#"
+    },
+    "authority": "NAATI",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272499",
+    "description": {
+      "text": "Social Professionals nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272612",
+    "description": {
+      "text": "Recreation Officer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "272613",
+    "description": {
+      "text": "Welfare Worker",
+      "url": "#"
+    },
+    "authority": "ACWA",
+    "skillLevel": "1",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311111",
+    "description": {
+      "text": "Agricultural Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311211",
+    "description": {
+      "text": "Anaesthetic Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311212",
+    "description": {
+      "text": "Cardiac Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311213",
+    "description": {
+      "text": "Medical Laboratory Technician",
+      "url": "#"
+    },
+    "authority": "AIMS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311215",
+    "description": {
+      "text": "Pharmacy Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311299",
+    "description": {
+      "text": "Medical Technicians nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311312",
+    "description": {
+      "text": "Meat Inspector",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311399",
+    "description": {
+      "text": "Primary Products Inspectors nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311411",
+    "description": {
+      "text": "Chemistry Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311412",
+    "description": {
+      "text": "Earth Science Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311413",
+    "description": {
+      "text": "Life Science Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "311499",
+    "description": {
+      "text": "Science Technicians nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312111",
+    "description": {
+      "text": "Architectural Draftsperson",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312112",
+    "description": {
+      "text": "Building Associate",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312113",
+    "description": {
+      "text": "Building Inspector",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312199",
+    "description": {
+      "text": "Architectural, Building and Surveying Technicians nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312512",
+    "description": {
+      "text": "Mechanical Engineering Technician",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312912",
+    "description": {
+      "text": "Metallurgical or Materials Technician",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "312913",
+    "description": {
+      "text": "Mine Deputy",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313111",
+    "description": {
+      "text": "Hardware Technician",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313112",
+    "description": {
+      "text": "ICT Customer Support Officer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313113",
+    "description": {
+      "text": "Web Administrator",
+      "url": "#"
+    },
+    "authority": "ACS",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "313199",
+    "description": {
+      "text": "ICT Support Technicians nec",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "2",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323111",
+    "description": {
+      "text": "Farrier",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323211",
+    "description": {
+      "text": "Aircraft Maintenance Engineer (Avionics)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323112",
+    "description": {
+      "text": "Aircraft Maintenance Engineer (Mechanical)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323113",
+    "description": {
+      "text": "Aircraft Maintenance Engineer (Structures)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323215",
+    "description": {
+      "text": "Textile, Clothing and Footwear Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323299",
+    "description": {
+      "text": "Metal Fitters and Machinists nec",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323314",
+    "description": {
+      "text": "Precision Instrument Maker and Repairer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323316",
+    "description": {
+      "text": "Watch and Clock Maker and Repairer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "323412",
+    "description": {
+      "text": "Toolmaker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "324211",
+    "description": {
+      "text": "Vehicle Body Builder",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "324212",
+    "description": {
+      "text": "Vehicle Trimmer",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3 (Closed)",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "333311",
+    "description": {
+      "text": "Roof Tiler",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342311",
+    "description": {
+      "text": "Business Machine Mechanic",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3 (Closed)",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342411",
+    "description": {
+      "text": "Cabler (Data and Telecommunications)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "342413",
+    "description": {
+      "text": "Telecommunications Linesworker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "351111",
+    "description": {
+      "text": "Baker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "351112",
+    "description": {
+      "text": "Pastrycook",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "351211",
+    "description": {
+      "text": "Butcher or Smallgoods Maker",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "351411",
+    "description": {
+      "text": "Cook",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "361111",
+    "description": {
+      "text": "Dog Handler or Trainer",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "361199",
+    "description": {
+      "text": "Animal Attendants and Trainers nec",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "3 (Closed)",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "361311",
+    "description": {
+      "text": "Veterinary Nurse",
+      "url": "#"
+    },
+    "authority": "VETASSESS",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "362111",
+    "description": {
+      "text": "Florist",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "362211",
+    "description": {
+      "text": "Gardener (General)",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3 (Closed)",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "362212",
+    "description": {
+      "text": "Arborist",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "362213",
+    "description": {
+      "text": "Landscape Gardener",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  },
+  {
+    "anzscoCode": "362311",
+    "description": {
+      "text": "Greenkeeper",
+      "url": "#"
+    },
+    "authority": "TRA",
+    "skillLevel": "3",
+    "course": "#"
+  }
+]
+}
