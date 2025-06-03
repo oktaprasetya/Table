@@ -1784,36 +1784,7 @@
 ],
   
 "table2":[
-  {
-    "anzscoCode": "121111",
-    "description": {
-      "text": "Aquaculture Farmer",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "121211",
-    "description": {
-      "text": "Cotton Grower",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "121212",
-    "description": {
-      "text": "Flower Grower",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
+  
   {
     "anzscoCode": "121213",
     "description": {
