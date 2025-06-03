@@ -1789,4 +1789,48 @@ table1: [
     skillLevel: "Level 4",
     course: "#"
   }
-]
+],
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+            table2: [
+                {
+                    anzscoCode: "121111",
+                    description: {
+                        text: "Aquaculture Farmer",
+                        url: "#"
+                    },
+                    authority: "VETASSESS",
+                    skillLevel: "Level 1",
+                    course: "Diploma of Aquaculture|http://tiny.cc/bgvl001; Diploma of Marine Studies|http://tiny.cc/fgvl001;Bachelor of Science (Aquatic Science / Marine Biology)|http://tiny.cc/igvl001;Bachelor of Agriculture (Animal Production / Fisheries Science)|http://tiny.cc/ngvl001; Master of Aquaculture|http://tiny.cc/bgvl001; Master of Marine and Antarctic Studies|http://tiny.cc/fgvl001"
+                },
+                {
+                    anzscoCode: "121211",
+                    description: {
+                        text: "Cotton Grower",
+                        url: "#"
+                    },
+                    authority: "VETASSESS",
+                    skillLevel: "Level 1",
+                    course: "Diploma of Agriculture|http://tiny.cc/ngvl001; Diploma of Agribusiness Management|http://tiny.cc/5ivl001; Bachelor of Agricultural Science|http://tiny.cc/ngvl001; Bachelor of Agronomy|http://tiny.cc/aivl001; Master of Agricultural Science|http://tiny.cc/ngvl001; Master of Sustainable Agriculture|http://tiny.cc/eivl001"
+                },
+              {
+                    anzscoCode: "121212",
+                    description: {
+                        text: "Flower Grower",
+                        url: "#"
+                    },
+                    authority: "VETASSESS",
+                    skillLevel: "Level 1",
+                    course: "Diploma of Horticulture|http://tiny.cc/4jvl001; Diploma of Agriculture|http://tiny.cc/ngvl001; Bachelor of Agricultural Science|http://tiny.cc/ngvl001; Bachelor of Environmental Science (Plant and Soil Science)| http://tiny.cc/8jvl001;Master of Agricultural Science (Horticulture major)| http://tiny.cc/4jvl001; Master of Agribusiness |http://tiny.cc/5ivl001"
+                }
+            ]
+        };
+
