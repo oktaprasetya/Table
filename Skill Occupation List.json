@@ -2,16 +2,6 @@
   "table1": [
  
   {
-    "anzscoCode": "134111",
-    "description": {
-      "text": "Child Care Centre Manager",
-      "url": "#"
-    },
-    "authority": "TRA",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
     "anzscoCode": "134211",
     "description": {
       "text": "Medical Administrator",
