@@ -1,26 +1,8 @@
 {
   "table1": [
  
-  {
-    "anzscoCode": "134211",
-    "description": {
-      "text": "Medical Administrator",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "134212",
-    "description": {
-      "text": "Nursing Clinical Director",
-      "url": "#"
-    },
-    "authority": "ANMAC",
-    "skillLevel": "1",
-    "course": "#"
-  },
+ 
+ 
   {
     "anzscoCode": "134213",
     "description": {
@@ -1775,26 +1757,6 @@
   
 "table2":[
   
-  {
-    "anzscoCode": "121213",
-    "description": {
-      "text": "Fruit or Nut Grower",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "121214",
-    "description": {
-      "text": "Grain, Oilseed or Pasture Grower",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
   {
     "anzscoCode": "121215",
     "description": {
