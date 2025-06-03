@@ -1,4 +1,5 @@
-table1: [
+const sampleData = {
+            table1: [
   {
     anzscoCode: "133211",
     description: {
@@ -1794,12 +1795,7 @@ table1: [
           
           
           
-          
-          
-          
-          
-          
-          
+      
             table2: [
                 {
                     anzscoCode: "121111",
