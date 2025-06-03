@@ -1,58 +1,8 @@
 {
   "table1": [
  
- 
- 
-  {
-    "anzscoCode": "134213",
-    "description": {
-      "text": "Primary Health Organisation Manager",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "134214",
-    "description": {
-      "text": "Welfare Centre Manager",
-      "url": "#"
-    },
-    "authority": "ACWA",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "221111",
-    "description": {
-      "text": "Accountant (General)",
-      "url": "#"
-    },
-    "authority": "CPAA/CA/IPA",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "221112",
-    "description": {
-      "text": "Management Accountant",
-      "url": "#"
-    },
-    "authority": "CPAA/CA/IPA",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
-    "anzscoCode": "221113",
-    "description": {
-      "text": "Taxation Accountant",
-      "url": "#"
-    },
-    "authority": "CPAA/CA/IPA",
-    "skillLevel": "1",
-    "course": "#"
-  },
+
+
   {
     "anzscoCode": "221213",
     "description": {
