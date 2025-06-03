@@ -1,35 +1,6 @@
 {
   "table1": [
-  {
-    "anzscoCode": "133111",
-    "description": {
-      "text": "Construction Project Manager",
-      "url": "https://blog.starshipeducation.com/2025/06/PR-Australia-jurusan-konstruksi.html"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "Bachelor of Construction Management, Bachelor of Civil Engineering, Bachelor of Project Management (Construction Focus), Master of Construction Project ManagementMaster of Engineering (Project Management specialization)"
-  },
-  {
-    "anzscoCode": "133112",
-    "description": {
-      "text": "Project Builder",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "Bachelor of Construction Management, Bachelor of Building and Construction, Bachelor of Civil Engineering (Construction Major), Diploma of Building and Construction (Building) – Level 6, Bachelor of Project Management (Construction Focus)"
-  },
-  {
-    "anzscoCode": "133211",
-    "description": {
-      "text": "Engineering Manager",
-      "url": "#"
-    },
-    "authority": "EA/AIM",
-    "skillLevel": "1",
-    "course": "#"
-  },
+ 
   {
     "anzscoCode": "134111",
     "description": {
@@ -1811,6 +1782,7 @@
     "course": "#"
   }
 ],
+  
 "table2":[
   {
     "anzscoCode": "121111",
