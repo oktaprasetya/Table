@@ -4,16 +4,6 @@
 
 
   {
-    "anzscoCode": "232214",
-    "description": {
-      "text": "Other Spatial Scientist",
-      "url": "#"
-    },
-    "authority": "VETASSESS",
-    "skillLevel": "1",
-    "course": "#"
-  },
-  {
     "anzscoCode": "233111",
     "description": {
       "text": "Chemical Engineer",
