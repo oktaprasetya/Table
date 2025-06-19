@@ -14,21 +14,7 @@
       "balance": -2918446
     }
   },
-  "jul": {
-    "income": 18543000,
-    "expense": 15200000,
-    "balance": 3343000,
-    "okta": {
-      "income": 18000000,
-      "expense": 5000000,
-      "balance": 13000000
-    },
-    "tyto": {
-      "income": 543000,
-      "expense": 3500000,
-      "balance": -2957000
-    }
-  },
+  "jul": null;
   "agu": null,
   "sep": null,
   "okt": null,
