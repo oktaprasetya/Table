@@ -1,0 +1,37 @@
+{
+  "jun": {
+    "income": 22735765,
+    "expense": 16703567,
+    "balance": 6032198,
+    "okta": {
+      "income": 19947075,
+      "expense": 6466161,
+      "balance": 13480914
+    },
+    "tyto": {
+      "income": 250000,
+      "expense": 3168446,
+      "balance": -2918446
+    }
+  },
+  "jul": {
+    "income": 18543000,
+    "expense": 15200000,
+    "balance": 3343000,
+    "okta": {
+      "income": 18000000,
+      "expense": 5000000,
+      "balance": 13000000
+    },
+    "tyto": {
+      "income": 543000,
+      "expense": 3500000,
+      "balance": -2957000
+    }
+  },
+  "agu": null,
+  "sep": null,
+  "okt": null,
+  "nov": null,
+  "des": null
+}
