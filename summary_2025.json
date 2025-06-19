@@ -24,9 +24,9 @@
       "balance": 13480914
     },
     "tyto": {
-      "income": 250000,
-      "expense": 3168446,
-      "balance": -2918446
+      "income": 0,
+      "expense": 0,
+      "balance": -0
     }
   },
   "jul": null,
