@@ -1,4 +1,19 @@
 {
+  "may": {
+    "income": 8121040,
+    "expense": 5083653,
+    "balance": 3037387,
+    "okta": {
+      "income": 7871040,
+      "expense": 4620653,
+      "balance": 3250387
+    },
+    "tyto": {
+      "income": 250000,
+      "expense": 463000,
+      "balance": -21000
+    }
+  },
   "jun": {
     "income": 22735765,
     "expense": 16703567,
