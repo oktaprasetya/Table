@@ -26,7 +26,7 @@
   {
     "date": "2025-07-01",
     "description": "Translate doc",
-    "category": "Okta",
+    "category": "Starship",
     "amount": -50000
   },
   {
@@ -50,7 +50,7 @@
   {
     "date": "2025-07-01",
     "description": "Translate doc",
-    "category": "Okta",
+    "category": "Starship",
     "amount": 60560
   },
   {
@@ -62,13 +62,13 @@
   {
     "date": "2025-07-01",
     "description": "Dana Bima",
-    "category": "Okta",
+    "category": "Debt",
     "amount": -100000
   },
   {
     "date": "2025-07-01",
     "description": "Gadai Tablet",
-    "category": "Okta",
+    "category": "Debt",
     "amount": 3440000
   },
   {
@@ -86,7 +86,7 @@
   {
     "date": "2025-07-01",
     "description": "Dana Bima",
-    "category": "Okta",
+    "category": "Debt",
     "amount": -200000
   },
   {
@@ -157,13 +157,13 @@
   },
   {
     "date": "2025-07-01",
-    "description": "Minum Bx Change",
+    "description": "Minum Bx-Change",
     "category": "Entertainment",
     "amount": -63800
   },
   {
     "date": "2025-07-01",
-    "description": "A-fung (minum)",
+    "description": "A-fung (minum) Bx-Change",
     "category": "Entertainment",
     "amount": -30000
   },
@@ -188,7 +188,7 @@
   {
     "date": "2025-07-01",
     "description": "Translate doc",
-    "category": "Okta",
+    "category": "Starship",
     "amount": -50000
   },
   {
@@ -241,13 +241,13 @@
   },
   {
     "date": "2025-07-01",
-    "description": "Chatime Bx Change",
+    "description": "Chatime Bx-Change",
     "category": "Entertainment",
     "amount": -215000
   },
   {
     "date": "2025-07-01",
-    "description": "Kentang Bx change",
+    "description": "Kentang Bx-change",
     "category": "Entertainment",
     "amount": -120000
   },
