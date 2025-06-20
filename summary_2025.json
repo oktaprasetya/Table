@@ -3,6 +3,8 @@
     "income": 8121040,
     "expense": 8044724,
     "balance": 196316,
+    "debt": 5170653,
+    "saving":0,
     "okta": {
       "income": 7871040,
       "expense": 3276157,
