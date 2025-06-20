@@ -1,48 +1,48 @@
 [
   {
-    "date": "2025-07-01",
+    "date": "2025-06-01",
     "description": "Asinan",
     "category": "Entertainment",
     "amount": -20000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-01",
     "description": "Indomaret",
     "category": "Entertainment",
     "amount": -19000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-02",
     "description": "Midtrans masuk",
-    "category": "Okta",
+    "category": "Starship",
     "amount": 3177600
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-02",
     "description": "Rusun",
     "category": "Living Cost",
     "amount": -2800000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-02",
     "description": "Translate doc",
     "category": "Starship",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-03",
     "description": "Paketan internet",
     "category": "Okta",
     "amount": -111000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-04",
     "description": "Midtrans masuk",
-    "category": "Okta",
+    "category": "Starship",
     "amount": 60560
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-04",
     "description": "Pasir kucing",
     "category": "Kucing",
     "amount": -98458
@@ -54,313 +54,313 @@
     "amount": 60560
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-05",
     "description": "Cash",
     "category": "Cash",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-06",
     "description": "Dana Bima",
     "category": "Debt",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "Gadai Tablet",
     "category": "Debt",
     "amount": 3440000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "Listrik",
     "category": "Living Cost",
     "amount": -203250
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "Pak Asop",
     "category": "Other",
     "amount": -30000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "Dana Bima",
     "category": "Debt",
     "amount": -200000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "OVO Tyto",
     "category": "Tyto",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
-    "description": "Gopay",
+    "date": "2025-06-07",
+    "description": "Gopay Okta",
     "category": "Okta",
     "amount": -51000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "Toko wiwin",
-    "category": "Living Cost",
+    "category": "Entertainment",
     "amount": -12000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-07",
     "description": "OVO Okta",
     "category": "Okta",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-08",
     "description": "Capital",
     "category": "Entertainment",
     "amount": -373068
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-08",
     "description": "Cash",
     "category": "Cash",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-08",
     "description": "Toko wiwin",
-    "category": "Living Cost",
+    "category": "Entertainment",
     "amount": -31000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-09",
     "description": "Galon",
     "category": "Living Cost",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-09",
     "description": "Indomaret",
     "category": "Entertainment",
     "amount": -15600
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-09",
     "description": "Transfer Tyto",
     "category": "Tyto",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
-    "description": "Nonton Final Destination",
+    "date": "2025-06-09",
+    "description": "Nonton Bioskop",
     "category": "Entertainment",
     "amount": -275000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-09",
     "description": "Minum Bx-Change",
     "category": "Entertainment",
     "amount": -63800
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-09",
     "description": "A-fung (minum) Bx-Change",
     "category": "Entertainment",
     "amount": -30000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-10",
     "description": "Timbangan digital",
     "category": "Tyto",
     "amount": -159450
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-11",
     "description": "Transfer Tyto",
     "category": "Tyto",
     "amount": -185000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-12",
     "description": "Pasir kucing",
     "category": "Kucing",
     "amount": -104768
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-13",
     "description": "Translate doc",
     "category": "Starship",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-13",
     "description": "Toko wiwin",
-    "category": "Living Cost",
+    "category": "Entertainment",
     "amount": -52000
   },
   {
-    "date": "2025-07-01",
-    "description": "Gopay",
+    "date": "2025-06-13",
+    "description": "Gopay Okta",
     "category": "Okta",
     "amount": -51000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-13",
     "description": "Transfer Tyto",
     "category": "Tyto",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-04",
     "description": "Es teh",
     "category": "Entertainment",
     "amount": -10000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "Flash Tyto",
     "category": "Tyto",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "OVO Tyto",
     "category": "Tyto",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
-    "description": "Warteg greja",
+    "date": "2025-06-15",
+    "description": "Warteg Greja",
     "category": "Okta",
     "amount": -28000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "Donat TR",
     "category": "Okta",
     "amount": -25000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "Chatime Bx-Change",
     "category": "Entertainment",
     "amount": -215000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "Kentang Bx-change",
     "category": "Entertainment",
     "amount": -120000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "OVO",
     "category": "Okta",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-15",
     "description": "Mbak Tika",
     "category": "Living Cost",
     "amount": -85000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-16",
     "description": "Midtrans masuk",
-    "category": "Okta",
+    "category": "Starship",
     "amount": 2765505
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-16",
     "description": "Bubur kacang ijo",
     "category": "Okta",
     "amount": -13000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-16",
     "description": "Cash",
     "category": "Cash",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
-    "description": "OVO",
+    "date": "2025-06-16",
+    "description": "OVO Okta",
     "category": "Okta",
     "amount": -70000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-17",
     "description": "Indomaret",
     "category": "Entertainment",
     "amount": -83100
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-17",
     "description": "Obat",
     "category": "Living Cost",
     "amount": -302500
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-17",
     "description": "Es Tebu",
     "category": "Entertainment",
     "amount": -33000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-17",
     "description": "Cash",
     "category": "Cash",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-17",
     "description": "Watson",
     "category": "Living Cost",
     "amount": -155500
   },
   {
-    "date": "2025-07-01",
-    "description": "Gopay",
+    "date": "2025-06-18",
+    "description": "Gopay Okta",
     "category": "Okta",
     "amount": -76000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-18",
     "description": "Makanan Kucing",
     "category": "Kucing",
     "amount": -492099
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-18",
     "description": "Canva",
     "category": "Okta",
     "amount": -48000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-18",
     "description": "Transfer Tyto",
     "category": "Tyto",
     "amount": -520000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-18",
     "description": "OVO Tyto",
     "category": "Tyto",
     "amount": -50000
   },
   {
-    "date": "2025-07-01",
-    "description": "OVO",
+    "date": "2025-06-18",
+    "description": "OVO Okta",
     "category": "Okta",
     "amount": -100000
   },
   {
-    "date": "2025-07-01",
-    "description": "Ayam goreng",
-    "category": "Living Cost",
+    "date": "2025-06-18",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
     "amount": -41000
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-06-18",
     "description": "Es teh",
     "category": "Entertainment",
     "amount": -10000
@@ -370,5 +370,53 @@
     "description": "Gaji masuk",
     "category": "Okta",
     "amount": 5110500
+  },
+  {
+    "date": "2025-06-18",
+    "description": "Gaji June",
+    "category": "Okta",
+    "amount": 5110500
+  },
+  {
+    "date": "2025-06-18",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -28000
+  },
+  {
+    "date": "2025-06-18",
+    "description": "Toko wiwin",
+    "category": "Entertainment",
+    "amount": -6000
+  },
+  {
+    "date": "2025-06-19",
+    "description": "Shopee - Remote AC",
+    "category": "Other",
+    "amount": -88499
+  },
+  {
+    "date": "2025-06-19",
+    "description": "Pasir Kucing",
+    "category": "Kucing",
+    "amount": -99858
+  },
+  {
+    "date": "2025-06-19",
+    "description": "Shopee - Cover Keyboard",
+    "category": "Okta",
+    "amount": -71851
+  },
+  {
+    "date": "2025-06-20",
+    "description": "Pasir Kucing",
+    "category": "Kucing",
+    "amount": -102417
+  },
+  {
+    "date": "2025-06-20",
+    "description": "Indomaret",
+    "category": "Entertainment",
+    "amount": -99900
   }
 ]
