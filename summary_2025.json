@@ -17,18 +17,18 @@
     }
   },
   "jun": {
-    "income": 14614725,
-    "expense": 8492593,
-    "balance": 6318448,
+    "income": 13369874,
+    "expense": 7964267,
+    "balance": 5405607,
     "okta": {
-      "income": 14614725,
-      "expense": 6466161,
-      "balance": 13480914
+      "income": 5110500,
+      "expense": 744851,
+      "balance": 4365649
     },
     "tyto": {
       "income": 0,
-      "expense": 0,
-      "balance": -0
+      "expense": 1364450,
+      "balance": -1364450
     }
   },
   "jul": null,
