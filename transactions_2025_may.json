@@ -8,19 +8,19 @@
   {
     "date": "2025-05-23",
     "description": "Honest Okta",
-    "category": "Okta",
+    "category": "Debt",
     "amount": -1338431
   },
   {
     "date": "2025-05-23",
     "description": "Traveloka",
-    "category": "Okta",
+    "category": "Debt",
     "amount": -1538726
   },
   {
     "date": "2025-05-23",
     "description": "Bablast",
-    "category": "Okta",
+    "category": "Starship",
     "amount": -100000
   },
   {
@@ -38,7 +38,7 @@
   {
     "date": "2025-05-24",
     "description": "Buang Kucing",
-    "category": "Living Cost",
+    "category": "Other",
     "amount": -100000
   },
   {
@@ -104,13 +104,13 @@
   {
     "date": "2025-05-26",
     "description": "Honest Tyto",
-    "category": "Okta",
+    "category": "Debt",
     "amount": -1393496
   },
   {
     "date": "2025-05-26",
     "description": "Bu Miswati",
-    "category": "Living Cost",
+    "category": "Debt",
     "amount": -900000
   },
   {
