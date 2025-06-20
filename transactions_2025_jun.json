@@ -409,6 +409,12 @@
   },
   {
     "date": "2025-06-20",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-20",
     "description": "Indomaret",
     "category": "Entertainment",
     "amount": -99900
