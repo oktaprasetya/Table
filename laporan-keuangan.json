@@ -1,0 +1,226 @@
+{
+  "transactions": [
+    {
+    "month": "may",
+    "description": "Gaji Mei",
+    "category": "Okta",
+    "amount": 5110500
+  },
+  {
+    "month": "may",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -1338431
+  },
+  {
+    "month": "may",
+    "description": "Traveloka",
+    "category": "Debt",
+    "amount": -1538726
+  },
+  {
+    "month": "may",
+    "description": "Bablast",
+    "category": "Starship",
+    "amount": -100000
+  },
+  {
+    "month": "may",
+    "description": "Cilok Block M",
+    "category": "Entertainment",
+    "amount": -12000
+  },
+  {
+    "month": "may",
+    "description": "Listrik",
+    "category": "Living Cost",
+    "amount": -202000
+  },
+  {
+    "month": "may",
+    "description": "Buang Kucing",
+    "category": "Other",
+    "amount": -100000
+  },
+  {
+    "month": "may",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -36000
+  },
+  {
+    "month": "may",
+    "description": "Rokok Mas ganda",
+    "category": "Other",
+    "amount": -22000
+  },
+  {
+    "month": "may",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "month": "may",
+    "description": "Tyto Freelance",
+    "category": "Tyto",
+    "amount": 250000
+  },
+  {
+    "month": "may",
+    "description": "Miniso - Tisu",
+    "category": "Entertainment",
+    "amount": -19900
+  },
+  {
+    "month": "may",
+    "description": "Pho Citraland",
+    "category": "Entertainment",
+    "amount": -261800
+  },
+  {
+    "month": "may",
+    "description": "Watson",
+    "category": "Living Cost",
+    "amount": -42900
+  },
+  {
+    "month": "may",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -150000
+  },
+  {
+    "month": "may",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -66200
+  },
+  {
+    "month": "may",
+    "description": "Midtrans masuk",
+    "category": "Okta",
+    "amount": 1380270
+  },
+  {
+    "month": "may",
+    "description": "Honest Tyto",
+    "category": "Debt",
+    "amount": -1393496
+  },
+  {
+    "month": "may",
+    "description": "Bu Miswati",
+    "category": "Debt",
+    "amount": -900000
+  },
+  {
+    "month": "may",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "month": "may",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -5000
+  },
+  {
+    "month": "may",
+    "description": "Shopee - Tempat Pensil",
+    "category": "Okta",
+    "amount": -58000
+  },
+  {
+    "month": "may",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -15000
+  },
+  {
+    "month": "may",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -120000
+  },
+  {
+    "month": "may",
+    "description": "Midtrans masuk",
+    "category": "Okta",
+    "amount": 1380270
+  },
+  {
+    "month": "may",
+    "description": "Makanan Kucing",
+    "category": "Kucing",
+    "amount": -550871
+  },
+  {
+    "month": "may",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -40000
+  },
+  {
+    "month": "may",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "month": "may",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -150000
+  },
+  {
+    "month": "may",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -10000
+  },
+  {
+    "month": "may",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -28000
+  },
+  {
+    "month": "may",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -51000
+  },
+  {
+    "month": "may",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -200000
+  },
+  {
+    "month": "may",
+    "description": "Potong rambut",
+    "category": "Okta",
+    "amount": -75000
+  },
+  {
+    "month": "may",
+    "description": "Indomaret",
+    "category": "Entertainment",
+    "amount": -58400
+  },
+  {
+    "month": "may",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -51000
+  },
+  {
+    "month": "may",
+    "description": "Toko wiwin",
+    "category": "Living Cost",
+    "amount": -49000
+  }
+  ]
+}
