@@ -6,14 +6,14 @@
     "debt": -5170653,
     "saving":0,
     "okta": {
-      "income": 7871040,
-      "expense": 3276157,
-      "balance": 4594883
+      "income": 6490770,
+      "expense": -250000,
+      "balance": 6240770
     },
     "tyto": {
-      "income": 250000,
+      "income": 1630270,
       "expense": -463000,
-      "balance": -213000
+      "balance": 1167270
     }
   },
   "jun": {
