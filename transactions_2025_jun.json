@@ -478,5 +478,11 @@
     "description": "Honest Okta",
     "category": "Debt",
     "amount": -1644024
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -20000
   }
 ]
