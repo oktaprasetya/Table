@@ -418,5 +418,65 @@
     "description": "Indomaret",
     "category": "Entertainment",
     "amount": -99900
+  },
+  {
+    "date": "2025-06-20",
+    "description": "Admin BCA",
+    "category": "Other",
+    "amount": -10000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -15900
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -10000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Perpustakaan Jakart",
+    "category": "Entertainment",
+    "amount": -30000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Perpustakaan Jakart",
+    "category": "Entertainment",
+    "amount": -25000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Bakmi Roxy - Cikini",
+    "category": "Entertainment",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "OVO Okta",
+    "category": "Okta",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -1644024
   }
 ]
