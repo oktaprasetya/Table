@@ -478,5 +478,11 @@
     "description": "Pak Asop",
     "category": "Other",
     "amount": -20000
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
   }
 ]
