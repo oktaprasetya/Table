@@ -1,0 +1,261 @@
+[
+  {
+    "date": "2025-04-01",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -11000
+  },
+  {
+    "date": "2025-04-01",
+    "description": "Bensin",
+    "category": "Living Cost",
+    "amount": -34200
+  },
+  {
+    "date": "2025-04-01",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -137799
+  },
+  {
+    "date": "2025-04-02",
+    "description": "Paskah SM",
+    "category": "Other",
+    "amount": -102500
+  },
+  {
+    "date": "2025-04-02",
+    "description": "Solusi Gadai",
+    "category": "Debt",
+    "amount": 640000
+  },
+  {
+    "date": "2025-04-3",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-04-03",
+    "description": "Bablast",
+    "category": "Starship",
+    "amount": -100000
+  },
+  {
+    "date": "2025-04-03",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -30000
+  },
+  {
+    "date": "2025-04-04",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -400000
+  },
+  {
+    "date": "2025-04-04",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -47000
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1430829
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Pasir Kucing",
+    "category": "Kucing",
+    "amount": -96800
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Kelas Delve AAS",
+    "category": "Starship",
+    "amount": -1120000
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Dana - Mbak Roh",
+    "category": "Okta",
+    "amount": -25000
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -189000
+  },
+  {
+    "date": "2025-04-17",
+    "description": "Dana Bima",
+    "category": "Debt",
+    "amount": 150000
+  },
+  {
+    "date": "2025-04-17",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -52600
+  },
+  {
+    "date": "2025-04-17",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -49900
+  },
+  {
+    "date": "2025-04-17",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -39900
+  },
+  {
+    "date": "2025-04-18",
+    "description": "Admin BCA",
+    "category": "Other",
+    "amount": -10000
+  },
+  {
+    "date": "2025-04-21",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 555557
+  },
+  {
+    "date": "2025-04-21",
+    "description": "Cafe - The People",
+    "category": "Entertainment",
+    "amount": -162003
+  },
+  {
+    "date": "2025-04-21",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -21000
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Gaji April",
+    "category": "Okta",
+    "amount": 5272500
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -50000
+  },
+  {
+    "date": "2025-04-23",
+    "description": "S-Pinjam",
+    "category": "Debt",
+    "amount": -652321
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -1311654
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Solusi Gadai",
+    "category": "Debt",
+    "amount": -816000
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Paket Data Kantor",
+    "category": "Other",
+    "amount": -76000
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Unknown QR - Francis Ar",
+    "category": "Entertainment",
+    "amount": -131200
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Sushi Hiro",
+    "category": "Entertainment",
+    "amount": -408870
+  },
+  {
+    "date": "2025-04-23",
+    "description": "Dana Bima",
+    "category": "Debt",
+    "amount": -300000
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Oh Some",
+    "category": "Entertainment",
+    "amount": -277800
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Lotte Mart",
+    "category": "Entertainment",
+    "amount": -326400
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -1100000
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1310760
+  },
+  {
+    "date": "2025-04-25",
+    "description": "Paketan internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+  {
+    "date": "2025-04-25",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -1100000
+  },
+  {
+    "date": "2025-04-25",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -50000
+  },
+  {
+    "date": "2025-04-25",
+    "description": "Shopee - Kakak Tua",
+    "category": "Okta",
+    "amount": -29500
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -213000
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": 25000
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Dana Okta",
+    "category": "Okta",
+    "amount": -20000
+  }
+  
+]
