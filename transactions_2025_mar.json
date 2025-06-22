@@ -2,8 +2,8 @@
   {
     "date": "2025-03-01",
     "description": "INDODAX",
-    "category": "SAVING",
-    "amount": 100926
+    "category": "Saving",
+    "amount": -00926
   },
   {
     "date": "2025-03-01",
@@ -51,7 +51,7 @@
     "date": "2025-03-05",
     "description": "INDODAX",
     "category": "Saving",
-    "amount": 300259
+    "amount": -300259
   },
    {
     "date": "2025-03-05",
@@ -99,7 +99,7 @@
     "date": "2025-03-10",
     "description": "INDODAX",
     "category": "Saving",
-    "amount": 100436
+    "amount": -100436
   },
   {
     "date": "2025-03-10",
