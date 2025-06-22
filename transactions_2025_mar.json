@@ -1,0 +1,467 @@
+[
+  {
+    "date": "2025-03-01",
+    "description": "INDODAX",
+    "category": "SAVING",
+    "amount": 100926
+  },
+  {
+    "date": "2025-03-01",
+    "description": "Tyto Transfer",
+    "category": "Tyto",
+    "amount": 100000
+  },
+  {
+    "date": "2025-03-01",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -51000
+  },
+  {
+    "date": "2025-03-02",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -36997
+  },
+  {
+    "date": "2025-03-02",
+    "description": "Rumahweb - Domain",
+    "category": "Starship",
+    "amount": -220050
+  },
+  {
+    "date": "2025-03-03",
+    "description": "Bensin",
+    "category": "Other",
+    "amount": -32000
+  },
+  {
+    "date": "2025-03-05",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -11000
+  },
+  {
+    "date": "2025-03-05",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 322725
+  },
+  {
+    "date": "2025-03-05",
+    "description": "INDODAX",
+    "category": "Saving",
+    "amount": 300259
+  },
+   {
+    "date": "2025-03-05",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -23000
+  },
+  {
+    "date": "2025-03-09",
+    "description": "Okta - Freelance Design",
+    "category": "Freelance",
+    "amount": 500000
+  },
+  {
+    "date": "2025-03-09",
+    "description": "Tokopedia",
+    "category": "Entertainment",
+    "amount": -87119
+  },
+  {
+    "date": "2025-03-09",
+    "description": "Indomaret",
+    "category": "Entertainment",
+    "amount": -25000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1290900
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Translate Doc",
+    "category": "Starship",
+    "amount": -1000000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Translate Doc",
+    "category": "Starship",
+    "amount": -1000000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "INDODAX",
+    "category": "Saving",
+    "amount": 100436
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -100000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Starbux",
+    "category": "Entertainment",
+    "amount": -91000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -52000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -41200
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -27000
+  },
+  {
+    "date": "2025-03-10",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -68000
+  },
+  {
+    "date": "2025-03-11",
+    "description": "Toko wiwin",
+    "category": "Entertainment",
+    "amount": -36000
+  },
+  {
+    "date": "2025-03-14",
+    "description": "Xendit",
+    "category": "Other",
+    "amount": 154000
+  },
+  {
+    "date": "2025-03-14",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -218000
+  },
+  {
+    "date": "2025-03-14",
+    "description": "Xendit",
+    "category": "Other",
+    "amount": -300000
+  },
+  {
+    "date": "2025-03-19",
+    "description": "Tyto Transfer",
+    "category": "Tyto",
+    "amount": 1000000
+  },
+  {
+    "date": "2025-03-19",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -1000000
+  },
+  {
+    "date": "2025-03-21",
+    "description": "Admin BCA",
+    "category": "Other",
+    "amount": -10000
+  },
+  {
+    "date": "2025-03-24",
+    "description": "Gaji",
+    "category": "Okta",
+    "amount": 5151600
+  },
+  {
+    "date": "2025-03-24",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -1335913
+  },
+  {
+    "date": "2025-03-24",
+    "description": "Traveloka",
+    "category": "Debt",
+    "amount": -599797
+  },
+   {
+    "date": "2025-03-25",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -58000
+  },
+  {
+    "date": "2025-03-25",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -21000
+  },
+  {
+    "date": "2025-03-25",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -26000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Snappy",
+    "category": "Other",
+    "amount": -17612
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Barburger",
+    "category": "Entertainment",
+    "amount": -196900
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1280970
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Traveloka",
+    "category": "Debt",
+    "amount": -458988
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Rusun",
+    "category": "Living Cost",
+    "amount": -2700000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -101000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -30000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -63200
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -101000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -26000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Nonton",
+    "category": "Entertainment",
+    "amount": -156000
+  },
+  {
+    "date": "2025-03-26",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -100000
+  },
+  {
+    "date": "2025-03-27",
+    "description": "BPJS Ketenagakerjaan",
+    "category": "Okta",
+    "amount": 4391950
+  },
+  {
+    "date": "2025-03-27",
+    "description": "Bu Miswati",
+    "category": "Debt",
+    "amount": -888000
+  },
+  {
+    "date": "2025-03-27",
+    "description": "Uang PU (Feb & Mar)",
+    "category": "Living Cost",
+    "amount": -400000
+  },
+  {
+    "date": "2025-03-27",
+    "description": "Hosting",
+    "category": "Starship",
+    "amount": -669600
+  },
+  {
+    "date": "2025-03-27",
+    "description": "IMEI - Ajid Rosidin",
+    "category": "Okta",
+    "amount": -252500
+  },
+  {
+    "date": "2025-03-27",
+    "description": "Easyeat",
+    "category": "Entertainment",
+    "amount": -285300
+  },
+  {
+    "date": "2025-03-27",
+    "description": "Easyeat",
+    "category": "Entertainment",
+    "amount": -67000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -78000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "My Telkomsel",
+    "category": "Okta",
+    "amount": -28000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Paketan internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+   {
+    "date": "2025-03-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -25750
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -84160
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Pasir Kucing",
+    "category": "Kucing",
+    "amount": -101000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Dana Mbak Roh",
+    "category": "Entertainment",
+    "amount": -32000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Makanan Kucing",
+    "category": "Kucing",
+    "amount": -486704
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Shopee Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Shopee Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Tokopidia",
+    "category": "Okta",
+    "amount": -115500
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -100000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -101000
+  },
+  {
+    "date": "2025-03-28",
+    "description": "Starbux",
+    "category": "Entertainment",
+    "amount": -133000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "Starbux",
+    "category": "Entertainment",
+    "amount": -133000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -500000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -34000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -32000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "Indomaret",
+    "category": "Entertainment",
+    "amount": -30000
+  },
+  {
+    "date": "2025-03-29",
+    "description": "KOR LLGRTGS",
+    "category": "Other",
+    "amount": -252500
+  }
+  
+  
+  
+]
