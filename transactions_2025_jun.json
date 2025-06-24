@@ -556,6 +556,30 @@
     "description": "Traveloka",
     "category": "Debt",
     "amount": -1035177
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Pulsa Tyto",
+    "category": "Tyto",
+    "amount": -56495
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -20000
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -17000
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -69300
   }
   
 ]
