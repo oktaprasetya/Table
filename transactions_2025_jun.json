@@ -548,8 +548,14 @@
   {
     "date": "2025-06-23",
     "description": "Honest Tyto",
-    "category": "Tyto",
+    "category": "Debt",
     "amount": -1417171
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Traveloka",
+    "category": "Debt",
+    "amount": -1035177
   }
   
 ]
