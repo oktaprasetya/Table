@@ -332,7 +332,7 @@
   {
     "date": "2025-06-18",
     "description": "Canva",
-    "category": "Okta",
+    "category": "Starship",
     "amount": -48000
   },
   {
@@ -468,21 +468,88 @@
     "amount": -100000
   },
   {
-    "date": "2025-06-21",
+    "date": "2025-06-22",
     "description": "Honest Okta",
     "category": "Debt",
     "amount": -1644024
   },
   {
-    "date": "2025-06-21",
+    "date": "2025-06-22",
     "description": "Pak Asop",
     "category": "Other",
     "amount": -20000
   },
   {
-    "date": "2025-06-21",
+    "date": "2025-06-22",
     "description": "Wifi",
     "category": "Living Cost",
     "amount": -250000
-  }
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Paketan Internet",
+    "category": "Tyto",
+    "amount": -204314
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Salad - Onya",
+    "category": "Tyto",
+    "amount": -18000
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Shopee - Capcut",
+    "category": "Okta",
+    "amount": -27000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1578870
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Shopee - Masker",
+    "category": "Living Cost",
+    "amount": -59000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Bubur kacang ijo",
+    "category": "Okta",
+    "amount": -16000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Toko wiwin",
+    "category": "Entertainment",
+    "amount": -55000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Flying Tiger - Buku to-do-list",
+    "category": "Okta",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Honest Tyto",
+    "category": "Tyto",
+    "amount": -1417171
+  },
+  
 ]
