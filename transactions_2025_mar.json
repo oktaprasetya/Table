@@ -179,11 +179,35 @@
     "category": "Cash",
     "amount": -1000000
   },
+   {
+    "date": "2025-03-20",
+    "description": "Tyto Transfer - Mbak Tika",
+    "category": "Tyto",
+    "amount": 54000
+  },
+   {
+    "date": "2025-03-20",
+    "description": "Mbak Tika",
+    "category": "Entertainment",
+    "amount": -54000
+  },
   {
     "date": "2025-03-21",
     "description": "Admin BCA",
     "category": "Other",
     "amount": -10000
+  },
+  {
+    "date": "2025-03-21",
+    "description": "Tyto Transfer - Galon",
+    "category": "Tyto",
+    "amount": 50000
+  },
+  {
+    "date": "2025-03-21",
+    "description": "Galon",
+    "category": "Living Cost",
+    "amount": -50000
   },
   {
     "date": "2025-03-24",
