@@ -580,6 +580,30 @@
     "description": "Alfamart",
     "category": "Entertainment",
     "amount": -69300
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Snappy - Sekolah Minggu",
+    "category": "Other",
+    "amount": -19000
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -25000
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Nasi Goreng Legend Palmerah",
+    "category": "Tyto",
+    "amount": -53400
+  },
+  {
+    "date": "2025-06-25",
+    "description": "DANA Bima",
+    "category": "Okta",
+    "amount": -300000
   }
   
 ]
