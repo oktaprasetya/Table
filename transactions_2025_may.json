@@ -220,5 +220,89 @@
     "description": "Toko wiwin",
     "category": "Living Cost",
     "amount": -49000
+  },
+  {
+    "date": "2025-05-25",
+    "description": "Tyto Transfer - Listrik",
+    "category": "Tyto",
+    "amount": 100000
+  },
+  {
+    "date": "2025-05-25",
+    "description": "Listrik",
+    "category": "Living Cost",
+    "amount": -100000
+  },
+  {
+    "date": "2025-05-20",
+    "description": "Tyto Transfer - Galon",
+    "category": "Tyto",
+    "amount": 50000
+  },
+  {
+    "date": "2025-05-20",
+    "description": "Galon",
+    "category": "Living Cost",
+    "amount": -50000
+  },
+  {
+    "date": "2025-05-08",
+    "description": "Tyto Transfer - Sate",
+    "category": "Tyto",
+    "amount": 24000
+  },
+  {
+    "date": "2025-05-08",
+    "description": "Sate",
+    "category": "Entertainment",
+    "amount": -24000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Tyto Transfer - Mbak Tika",
+    "category": "Tyto",
+    "amount": 91000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Mbak Tika",
+    "category": "Entertainment",
+    "amount": -91000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Tyto Transfer - Galon",
+    "category": "Tyto",
+    "amount": 50000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Galon",
+    "category": "Living Cost",
+    "amount": -50000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Tyto Transfer - Sate",
+    "category": "Tyto",
+    "amount": 24000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Sate",
+    "category": "Entertainment",
+    "amount": -24000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Tyto Transfer Mbak Mia",
+    "category": "Tyto",
+    "amount": 350000
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Mbak Mia",
+    "category": "Kucing",
+    "amount": -350000
   }
 ]
