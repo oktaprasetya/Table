@@ -1,0 +1,358 @@
+[
+  {
+    "date": "2025-01-01",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -110200
+  },
+  {
+    "date": "2025-01-02",
+    "description": "Shopee",
+    "category": "Entertainment",
+    "amount": -52000
+  },
+  {
+    "date": "2025-01-03",
+    "description": "OVO Okta",
+    "category": "Okta",
+    "amount": -338000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Tyto Transfer",
+    "category": "Tyto",
+    "amount": 1500000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Rusun",
+    "category": "Living Cost",
+    "amount": -1000000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -117000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -51000
+  },
+  {
+    "date": "2025-01-07",
+    "description": "Flaz BCA",
+    "category": "Tyto",
+    "amount": -20000
+  },
+  {
+    "date": "2025-01-08",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -13000
+  },
+  {
+    "date": "2025-01-10",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 248250
+  },
+  {
+    "date": "2025-01-10",
+    "description": "OVo - Ms.Rorien",
+    "category": "Debt",
+    "amount": -50000
+  },
+  {
+    "date": "2025-01-10",
+    "description": "Starbux",
+    "category": "Entertainment",
+    "amount": -73000
+  },
+  {
+    "date": "2025-01-11",
+    "description": "Shake Shake",
+    "category": "Entertainment",
+    "amount": -40000
+  },
+  {
+    "date": "2025-01-11",
+    "description": "Bakso Boed",
+    "category": "Entertainment",
+    "amount": -83998
+  },
+  {
+    "date": "2025-01-14",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -26300
+  },
+  {
+    "date": "2025-01-14",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -10000
+  },
+  {
+    "date": "2025-01-14",
+    "description": "Pasir Kucing",
+    "category": "Kucing",
+    "amount": -216990
+  },
+  {
+    "date": "2025-01-16",
+    "description": "Endah Transfer",
+    "category": "Debt",
+    "amount": 1000000
+  },
+  {
+    "date": "2025-01-16",
+    "description": "Galon",
+    "category": "Living Cost",
+    "amount": -50000
+  },
+  {
+    "date": "2025-01-16",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -35000
+  },
+  {
+    "date": "2025-01-16",
+    "description": "Pak Asop",
+    "category": "Other",
+    "amount": -100000
+  },
+  {
+    "date": "2025-01-16",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -500000
+  },
+  {
+    "date": "2025-01-17",
+    "description": "Gopay Mbak Evi",
+    "category": "Other",
+    "amount": -510000
+  },
+  {
+    "date": "2025-01-17",
+    "description": "Bebs Snack",
+    "category": "Entertainment",
+    "amount": -500000
+  },
+  {
+    "date": "2025-01-17",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -11000
+  },
+  {
+    "date": "2025-01-17",
+    "description": "Rumah Makan",
+    "category": "Enetrtainment",
+    "amount": -52000
+  },
+  {
+    "date": "2025-01-17",
+    "description": "Admin BCA",
+    "category": "Other",
+    "amount": -10000
+  },
+  {
+    "date": "2025-01-18",
+    "description": "Mixue",
+    "category": "Entertainment",
+    "amount": -70000
+  },
+  {
+    "date": "2025-01-18",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -10000
+  },
+  {
+    "date": "2025-01-18",
+    "description": "Sate Ayam",
+    "category": "Entertainment",
+    "amount": -32000
+  },
+  {
+    "date": "2025-01-18",
+    "description": "Shopee",
+    "category": "Entertainment",
+    "amount": -21800
+  },
+  {
+    "date": "2025-01-22",
+    "description": "Adi negara",
+    "category": "Starship",
+    "amount": 750000
+  },
+  {
+    "date": "2025-01-22",
+    "description": "Paket Internet",
+    "category": "Tyto",
+    "amount": -218630
+  },
+  {
+    "date": "2025-01-22",
+    "description": "Shopee Tyto",
+    "category": "Tyto",
+    "amount": -270805
+  },
+  {
+    "date": "2025-01-22",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -200000
+  },
+  {
+    "date": "2025-01-23",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -70000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Gaji",
+    "category": "Okta",
+    "amount": 8907855
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Honest Okta",
+    "category": "Debt",
+    "amount": -1343587
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Traveloka",
+    "category": "Debt",
+    "amount": -1319617
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Mbak Hatrini",
+    "category": "Kucing",
+    "amount": -850000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Keripik",
+    "category": "Entertainment",
+    "amount": -20000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Rusun",
+    "category": "Living Cost",
+    "amount": -2400000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Raja Mendoan",
+    "category": "Entertainment",
+    "amount": -43000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Endah",
+    "category": "Debt",
+    "amount": -1302500
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -60000
+  },
+  {
+    "date": "2025-01-27",
+    "description": "Shopee",
+    "category": "Tyto",
+    "amount": -60000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Paketan Internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Paketan Internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Paketan Internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "PU Nov-Jan",
+    "category": "Living Cost",
+    "amount": -600000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "South Kitchen",
+    "category": "Entertainment",
+    "amount": -195200
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Sate Ayam",
+    "category": "Entertainment",
+    "amount": -48000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -104000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -104000
+  },
+  {
+    "date": "2025-01-28",
+    "description": "Shopee",
+    "category": "Okta",
+    "amount": -52400
+  },
+  {
+    "date": "2025-01-31",
+    "description": "Endah",
+    "category": "Debt",
+    "amount": -72000
+  }
+  
+  
+]
