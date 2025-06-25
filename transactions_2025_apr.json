@@ -256,6 +256,114 @@
     "description": "Dana Okta",
     "category": "Okta",
     "amount": -20000
+  },
+  {
+    "date": "2025-04-28",
+    "description": "Tyto Transfer - Solusi Gadai",
+    "category": "Tyto",
+    "amount": 8380000
+  },
+  {
+    "date": "2025-04-28",
+    "description": "Solusi Gadai",
+    "category": "Debt",
+    "amount": -8380000
+  }
+  {
+    "date": "2025-04-28",
+    "description": "Tyto Transfer - Rusun",
+    "category": "Tyto",
+    "amount": 2800000
+  },
+  {
+    "date": "2025-04-28",
+    "description": "Rusun",
+    "category": "Living Cost",
+    "amount": -2800000
+  },
+  {
+    "date": "2025-04-28",
+    "description": "Tyto Transfer Shopepay Okta",
+    "category": "Tyto",
+    "amount": 621263
+  },
+  {
+    "date": "2025-04-28",
+    "description": "Shopee",
+    "category": "Debt",
+    "amount": -621263
+  },
+  {
+    "date": "2025-04-27",
+    "description": "Tyo Transfer - Mbak Tika",
+    "category": "Tyto",
+    "amount": 100000
+  },
+  {
+    "date": "2025-04-27",
+    "description": "Mbak Tika",
+    "category": "Entertainment",
+    "amount": -100000
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Tyto Transfer Obat Kiko",
+    "category": "Tyto",
+    "amount": 55100
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Obat Kiko",
+    "category": "Kucing",
+    "amount": -55100
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Tyto Transfer - jakarta VET",
+    "category": "Tyto",
+    "amount": 235000
+  },
+  {
+    "date": "2025-04-26",
+    "description": "Jakarta VET - Kiko",
+    "category": "Kucing",
+    "amount": -235000
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Tyto Transfer - Wifi",
+    "category": "Tyto",
+    "amount": 250000
+  },
+  {
+    "date": "2025-04-24",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "date": "2025-04-21",
+    "description": "Tyto Transfer - Listrik",
+    "category": "Tyto",
+    "amount": 400000
+  },
+  {
+    "date": "2025-04-21",
+    "description": "Listrik",
+    "category": "Living Cost",
+    "amount": -400000
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Tyto Transfer - Listrik",
+    "category": "Tyto",
+    "amount": 50000
+  },
+  {
+    "date": "2025-04-08",
+    "description": "Listrik",
+    "category": "Living Cost",
+    "amount": -50000
   }
   
 ]
