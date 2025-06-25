@@ -193,6 +193,18 @@
   },
   {
     "date": "2025-03-24",
+    "description": "Tyto Transfer - Wifi",
+    "category": "Tyto",
+    "amount": 250000
+  },
+  {
+    "date": "2025-03-24",
+    "description": "Wifi",
+    "category": "Living Cost",
+    "amount": -250000
+  },
+  {
+    "date": "2025-03-24",
     "description": "Honest Okta",
     "category": "Debt",
     "amount": -1335913
