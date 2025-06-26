@@ -604,6 +604,18 @@
     "description": "DANA Bima",
     "category": "Okta",
     "amount": -300000
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Snappy - Sekolah Minggu",
+    "category": "Other",
+    "amount": -76000
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Wordpress - Divi",
+    "category": "Starship",
+    "amount": -76000
   }
   
 ]
