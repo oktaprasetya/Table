@@ -616,6 +616,133 @@
     "description": "Wordpress - Divi",
     "category": "Starship",
     "amount": -76000
+  },
+  {
+    "date": "2025-06-26",
+    "description": "Ayam goreng",
+    "category": "Entertainment",
+    "amount": -17000
+  },
+  {
+    "date": "2025-06-26",
+    "description": "Es teh",
+    "category": "Entertainment",
+    "amount": -10000
+  },
+  {
+    "date": "2025-06-27",
+    "description": "SIL Kidzania",
+    "category": "Other",
+    "amount": -350000
+  },
+  {
+    "date": "2025-06-27",
+    "description": "David al iraq",
+    "category": "Other",
+    "amount": -82500
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Bablast",
+    "category": "Starship",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -16000
+  },
+  {
+    "date": "2025-06-28",
+    "description": "Galon",
+    "category": "Okta",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-28",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Midtrans masuk",
+    "category": "Starship",
+    "amount": 1588800
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Cash",
+    "category": "Cash",
+    "amount": -100000
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Bakso Sekolah Minggu",
+    "category": "Other",
+    "amount": -46000
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Warteg Greja",
+    "category": "Okta",
+    "amount": -9000
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Iuran KFC Teman renang",
+    "category": "Tyto",
+    "amount": -35000
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Shopee - Regulator & Selang Gas",
+    "category": "Other",
+    "amount": -157728
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Paketan Inetrnet hp kantor",
+    "category": "Other",
+    "amount": -15000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Mie Ayam",
+    "category": "Okta",
+    "amount": -16000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Paketan Internet",
+    "category": "Okta",
+    "amount": -111000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Gadai iPhone",
+    "category": "Debt",
+    "amount": 7000000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Solusi Gadai - Tablet",
+    "category": "Debt",
+    "amount": -3840000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Toko wiwin",
+    "category": "Entertainment",
+    "amount": -48000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -1550000
   }
+
   
 ]
