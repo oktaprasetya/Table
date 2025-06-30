@@ -59,6 +59,37 @@
         }
       ]
     },
+
+{
+      "name": "Surabaya",
+      "members": [
+        {
+          "name": "Teh Wendy",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro04",
+          "whatsapp": "6282257510431",
+          "linkedin": "https://www.linkedin.com/in/teh-wendy-s-i-kom-84b00920b/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "tehwendy7@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Makassar",
+      "members": [
+        {
+          "name": "Ainah Abdullah",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid014",
+          "whatsapp": "6287816104247",
+          "linkedin": "https://www.linkedin.com/in/ainah-abdullah-1a97bb258/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "Ainah.abdullah8484@gmail.com"
+        }
+      ]
+    },
+
+    
     {
       "name": "Bali",
       "members": [
@@ -231,34 +262,7 @@
         }
       ]
     },
-    {
-      "name": "Surabaya",
-      "members": [
-        {
-          "name": "Teh Wendy",
-          "role": "Education Counselor",
-          "image": "http://tiny.cc/SS-Astro04",
-          "whatsapp": "6282257510431",
-          "linkedin": "https://www.linkedin.com/in/teh-wendy-s-i-kom-84b00920b/",
-          "instagram": "https://www.instagram.com/starship_edu/",
-          "email": "tehwendy7@gmail.com"
-        }
-      ]
-    },
-    {
-      "name": "Makassar",
-      "members": [
-        {
-          "name": "Ainah Abdullah",
-          "role": "Education Counselor",
-          "image": "http://tiny.cc/SS-Astrid014",
-          "whatsapp": "6287816104247",
-          "linkedin": "https://www.linkedin.com/in/ainah-abdullah-1a97bb258/",
-          "instagram": "https://www.instagram.com/starship_edu/",
-          "email": "Ainah.abdullah8484@gmail.com"
-        }
-      ]
-    },
+  
     {
       "name": "Mamuju",
       "members": [
