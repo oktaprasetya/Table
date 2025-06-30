@@ -742,6 +742,18 @@
     "description": "Transfer Tyto",
     "category": "Tyto",
     "amount": -1550000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Bu Miswati",
+    "category": "Debt",
+    "amount": -1000000
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Top English - Mizzel",
+    "category": "Starship",
+    "amount": -2720000
   }
 
   
