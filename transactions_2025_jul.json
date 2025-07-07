@@ -1,6 +1,12 @@
 [
   {
     "date": "2025-07-01",
+    "description": "Saldo Juni",
+    "category": "Okta",
+    "amount": 643768
+  },
+  {
+    "date": "2025-07-01",
     "description": "Snappy - Skripsi Tyto",
     "category": "Tyto",
     "amount": -44661
