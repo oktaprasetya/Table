@@ -94,6 +94,12 @@
     "description": "Makanan Kucing",
     "category": "Kucing",
     "amount": -168774
+  },
+   {
+    "date": "2025-07-08",
+    "description": "Okta - Design Honeybee",
+    "category": "Freelance",
+    "amount": 440000
   }
   
 ]
