@@ -100,6 +100,126 @@
     "description": "Okta - Design Honeybee",
     "category": "Freelance",
     "amount": 440000
+  },
+  {
+    "date": "2025-07-08",
+    "description": "Gopay Okta",
+    "category": "Okta",
+    "amount": -181791
+  },
+  {
+    "date": "2025-07-08",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -11000
+  },
+  {
+    "date": "2025-07-09",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -433000
+  },
+  {
+    "date": "2025-07-10",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -71000
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Okta - Translate Doc",
+    "category": "Freelance",
+    "amount": 80433
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Bubur kacang ijo",
+    "category": "Entertainment",
+    "amount": -13000
+  } ,
+  {
+    "date": "2025-07-11",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -100000
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Ayam Goreng",
+    "category": "Entertainment",
+    "amount": -25000
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Toko wiwin",
+    "category": "Entertainment",
+    "amount": -23000
+  },
+  {
+    "date": "2025-07-12",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Gadai Tablet",
+    "category": "Okta",
+    "amount": 3350000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "makanan kucing - Alfa",
+    "category": "Kucing",
+    "amount": -100000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Transfer Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Indomaret",
+    "category": "Entertainment",
+    "amount": -110400
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Makanan & Pasir Kucing",
+    "category": "Kucing",
+    "amount": -740498
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Makanan & Pasir Kucing",
+    "category": "Kucing",
+    "amount": -740498
+  },
+  {
+    "date": "2025-07-15",
+    "description": "OVO Tyto",
+    "category": "Tyto",
+    "amount": -50000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Hellodoc",
+    "category": "Okta",
+    "amount": -212000
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Alfamart",
+    "category": "Entertainment",
+    "amount": -62500
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Mbak Tika",
+    "category": "Entertainment",
+    "amount": -95000
   }
   
 ]
